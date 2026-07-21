@@ -54,7 +54,7 @@
 
 - **适用系统**：Windows 7/8/10/11 (64位)  
 - **版本**：v1.0.0 绿色版，解压即用  
-- **下载地址**：[👉 立即下载 MouseClicker.zip](https://example.com/download)  
+- **下载地址**：[👉 立即下载 MouseClicker.zip](https://github.com/qiouyusky/Superman-connector/releases/tag/%E8%BF%9E%E7%82%B9%E5%99%A8)  
 
 > 📌 无需安装额外运行库，已用 `windeployqt` 打包所有依赖。
 
@@ -69,23 +69,6 @@
 
 ---
 
-## 📸 界面预览
-
-![主界面](https://via.placeholder.com/400x300?text=主界面截图)  
-*简洁直观的控制面板*
-
-![热键设置](https://via.placeholder.com/400x200?text=热键捕获对话框)  
-*按下组合键即可完成绑定*
-
-![录制回放](https://via.placeholder.com/400x200?text=录制文件管理)  
-*轻松管理录制脚本*
-
----
-
-## ❤️ 开源与贡献
-
-本项目基于 **Qt 开源版** 构建，代码完全开源，欢迎提交 PR 或反馈建议。  
-> 仓库地址：[https://github.com/yourname/MouseClicker](https://github.com/yourname/MouseClicker)
 
 ---
 
